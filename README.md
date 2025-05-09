@@ -1,6 +1,6 @@
 # self-distillation-analysis
 
-This anonymized repository provides everything needed to replicate main findings in the paper: "The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model" by [Takanami et al.](https://arxiv.org/abs/2501.16226).
+This repository provides everything needed to replicate main findings in the paper: "The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model" by [Takanami et al.](https://arxiv.org/abs/2501.16226).
 
 - **Replica theory**  
   - Solve the saddle-point equations for the noisy Gaussian mixture model  
